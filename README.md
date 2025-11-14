@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
-<a href="gitpod.io/#https://github.com/DiemQuynh05/my-portfolio-final" target="_blank">**Visit Now** 🚀</a>
+<a href="https://diemquynh05.github.io/my-portfolio-final/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
